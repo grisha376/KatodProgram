@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatodProgramm", "KatodProgramm\KatodProgramm.csproj", "{2857AD8A-2819-4540-BD77-0C3EE5DA2EBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2857AD8A-2819-4540-BD77-0C3EE5DA2EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2857AD8A-2819-4540-BD77-0C3EE5DA2EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2857AD8A-2819-4540-BD77-0C3EE5DA2EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2857AD8A-2819-4540-BD77-0C3EE5DA2EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF213526-DADC-4ED9-BBB7-B0835D281EA9}
+	EndGlobalSection
+EndGlobal
